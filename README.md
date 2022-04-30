@@ -1,6 +1,4 @@
-### Olá👋
-
-- 🌱 Atualmente estou estudando POO, HTML e CSS
+### Bão?👋
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
@@ -9,6 +7,7 @@
 </div>
   
 ##
+
 <div style="display: inline_block"><br>
   <img alt= "htmlDan" align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
   <img alt= "cssDan"  align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
@@ -17,3 +16,10 @@
   <img alt= "CDan" align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
   <img alt= "processingDan" align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-plain.svg" />
 </div>
+  
+##  
+
+  <div>
+    <a href= "mailto:danielalmemiranda@gmail.com" target= "_blank"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href= "www.linkedin.com/in/daniel-de-miranda-almeida" target= "_blank"><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  </div>
