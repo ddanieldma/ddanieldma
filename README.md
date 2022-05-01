@@ -1,14 +1,14 @@
-### Bão?👋 Daniel Miranda aqui
+###👋 Daniel Miranda aqui
 
-🎂 - 17 anos <br>
-📚 - Terceiro de Desenvolvimento de Sistemasa no Coltec - UF〽G <br> <br>
-👨‍💻 - Gosto de programar no geral, principalmente em C, C# e Java. <br> <br>
-🌱 - Aprendendo atualmente tópicos avançados em POO e desenvolvimento web em HTML e CSS. <br> <br>
+- 🎂  17 anos <br> <br>
+- 📚  Terceiro de Desenvolvimento de Sistemasa no Coltec - UF〽G <br> <br>
+- 👨‍💻  Gosto de programar no geral, principalmente em C, C# e Java. <br> <br>
+- 🌱  Aprendendo atualmente tópicos avançados em POO e desenvolvimento web em HTML e CSS. <br> <br>
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Dannillouou&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dannillouou&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dannillouou&layout=compact&theme=dark&exclude_repo=AEDS&langs_count=10"/>
 </div>
 
 <br>
