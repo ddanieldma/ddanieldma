@@ -2,8 +2,8 @@
 
 - 🎂  17 anos <br> <br>
 - 📚  Terceiro de Desenvolvimento de Sistemasa no Coltec - UF〽G <br> <br>
-- 👨‍💻  Gosto de programar no geral, principalmente em C, C# e Java. <br> <br>
-- 🌱  Aprendendo atualmente tópicos avançados em POO e desenvolvimento web em HTML e CSS. <br> <br>
+- 👨‍💻  Gosto de programar no geral e geralmente em C, C# e Java. <br> <br>
+- 🌱  Aprendendo atualmente tópicos avançados em POO com C# e desenvolvimento web em HTML e CSS. <br> <br>
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
