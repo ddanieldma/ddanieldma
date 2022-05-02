@@ -6,7 +6,7 @@
 - 🌱  Aprendendo atualmente tópicos avançados em POO com C# e desenvolvimento web em HTML e CSS. <br> <br>
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/Dannillouou">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Dannillouou&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dannillouou&layout=compact&theme=radical&langs_count=6"/>
 </div>
