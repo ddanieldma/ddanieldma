@@ -1,9 +1,10 @@
-### 👋 Daniel Miranda aqui
+### 👋 Olá! Daniel Miranda aqui
 
 - 🎂  17 anos <br> <br>
 - 📚  Terceiro de Desenvolvimento de Sistemasa no Coltec - UF〽G <br> <br>
 - 👨‍💻  Gosto de programar no geral. <br> <br>
 - 🌱  Aprendendo atualmente tópicos avançados em POO com C# e desenvolvimento web em HTML e CSS. <br> <br>
+- 😅  Procurando estágio
 
 <div align="center">
   <a href="https://github.com/Dannillouou">
