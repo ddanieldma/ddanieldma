@@ -1,9 +1,9 @@
 ### 👋 Olá! Daniel Miranda aqui
 
 - 🎂  17 anos <br> <br>
-- 📚  Terceiro de Desenvolvimento de Sistemasa no Coltec - UF〽G <br> <br>
+- 📚  Terceiro ano de Desenvolvimento de Sistemas no Coltec - UF〽G <br> <br>
 - 👨‍💻  Gosto de programar no geral. <br> <br>
-- 🌱  Aprendendo desenvolvimento de jogos na engine Unity e desenvolvimento frontend com Bootstrap. <br> <br>
+- 🌱  Aprendendo desenvolvimento de jogos na engine Unity e desenvolvimento frontend com Bootstrap, HTML e CSS. <br> <br>
 - 😅  Procurando estágio
 
 <div align="center">
