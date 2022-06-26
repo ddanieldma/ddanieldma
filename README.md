@@ -21,9 +21,11 @@
 
 ##
 
+<!-- Linguagens -->
 <div style="display: inline_block"><br>
   <img alt= "htmlDan" align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
   <img alt= "cssDan"  align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
+  <img alt= "JSDan" align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img alt= "CSDan" align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg"/>
   <img alt= "javaDan" align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img alt= "CDan" align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
@@ -32,9 +34,11 @@
   
 ##  
 
+<!-- Conexões -->
   <div>
     <a href= "mailto:danielalmemiranda@gmail.com" target= "_blank"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href= "https://www.linkedin.com/in/daniel-de-miranda-almeida/" target= "_blank"><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   </div>
 
+<!-- Cobrinha -->
 ![Snake animation](https://github.com/Dannillouou/Dannillouou/blob/output/github-contribution-grid-snake.svg)
