@@ -3,7 +3,7 @@
 - 🎂  17 anos <br> <br>
 - 📚  Terceiro ano de Desenvolvimento de Sistemas no Coltec - UF〽G <br> <br>
 - 👨‍💻  Gosto de programar no geral. <br> <br>
-- 🌱  Aprendendo desenvolvimento de jogos na engine Unity e JavaScript<br> <br>
+- 🌱  Aprendendo desenvolvimento de jogos na engine Unity, JavaScript e PostgreSQL<br> <br>
 - 😅  Procurando estágio
 
 <div align="center">
