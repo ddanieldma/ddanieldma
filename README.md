@@ -4,7 +4,6 @@
 - 📚  Terceiro ano de Desenvolvimento de Sistemas no Coltec - UF〽G <br> <br>
 - 👨‍💻  Gosto de programar no geral. <br> <br>
 - 🌱  Aprendendo desenvolvimento de aplicativos com o framework Flutter e SQL. <br> <br>
-- 😅  Procurando estágio
 
 <div align="center">
   <a href="https://github.com/Dannillouou">
