@@ -8,7 +8,7 @@
 <div align="center">
   <a href="https://github.com/Dannillouou">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Dannillouou&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="190em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dannillouou&layout=compact&theme=radical&langs_count=10&hide=shaderlab,hlsl,scss,c,processing"/>
+  <img height="190em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dannillouou&layout=compact&theme=radical&langs_count=6&hide=shaderlab,hlsl,scss,c,processing"/>
 </div>
 
 <br>
@@ -28,7 +28,6 @@
   <img alt= "CS" align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg"/>
   <img alt= "java" align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img alt= "C" align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
-  <img alt= "processing" align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" />
   <img alt= "php" align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
   <img alt= "flutter" align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
 </div>
