@@ -1,7 +1,7 @@
 ### 👋 Olá! Daniel Miranda aqui
 
-- 🎂  17 anos <br> <br>
-- 📚  Quarto ano de Desenvolvimento de Sistemas no Coltec - UF〽G <br> <br>
+- 🎂  18 anos <br> <br>
+- 📚  Estudante de Ciência de Dados e Inteligência Artificial na FGV - UF〽G <br> <br>
 - 👨‍💻  Trabalhando no site do Coltec <br> <br>
 
 <div align="center">
@@ -40,4 +40,4 @@
   </div>
 
 <!-- Cobrinha -->
-<!-- ![Snake animation](https://github.com/Dannillouou/Dannillouou/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/Dannillouou/Dannillouou/blob/output/github-contribution-grid-snake.svg)
