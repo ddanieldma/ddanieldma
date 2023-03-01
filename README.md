@@ -2,7 +2,6 @@
 
 - 🎂  18 anos <br> <br>
 - 📚  Estudante de Ciência de Dados e Inteligência Artificial na FGV - Rio <br> <br>
-- 👨‍💻  Trabalhando no site do Coltec <br> <br>
 
 <div align="center">
   <a href="https://github.com/Dannillouou">
