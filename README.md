@@ -4,15 +4,15 @@
 - 📚  Estudante de Ciência de Dados e Inteligência Artificial na FGV - Rio <br> <br>
 
 <div align="center">
-  <a href="https://github.com/Dannillouou">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Dannillouou&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="190em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dannillouou&layout=compact&theme=radical&langs_count=6&hide=shaderlab,hlsl,scss,c,processing"/>
+  <a href="https://github.com/ddanieldma">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=ddanieldma&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="190em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddanieldma&layout=compact&theme=radical&langs_count=6&hide=shaderlab,hlsl,scss,c,processing"/>
 </div>
 
 <br>
 
 <!--
-[![Dannillouou's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dannillouou)](https://github.com/Dannillouou/github-readme-stats)
+[![ddanieldma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dannillouou)](https://github.com/Dannillouou/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dannillouou)](https://github.com/Dannillouou/github-readme-stats)
 -->
 
@@ -41,4 +41,4 @@
   </div>
 
 <!-- Cobrinha -->
-![Snake animation](https://github.com/Dannillouou/Dannillouou/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ddanieldma/ddanieldma/blob/output/github-contribution-grid-snake.svg)
