@@ -19,15 +19,17 @@
 ##
 
 <!-- Linguagens e tecnologias-->
-<div style="display: inline_block"><br>
-  <img alt= "html" align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
-  <img alt= "css"  align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
-  <img alt= "JS" align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <!-- <img alt= "CS" align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg"/> -->
-  <img alt= "java" align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img alt= "C" align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
-  <img alt= "php" align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
-  <img alt= "flutter" align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
+<div align="center">
+  <div style="display: inline_block"><br>
+    <img alt= "html" align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
+    <img alt= "css"  align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
+    <img alt= "JS" align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+    <!-- <img alt= "CS" align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg"/> -->
+    <img alt= "java" align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <img alt= "C" align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
+    <img alt= "php" align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
+    <img alt= "flutter" align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
+  </div>
 </div>
   
 ##  
