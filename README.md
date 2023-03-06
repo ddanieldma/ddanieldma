@@ -2,6 +2,7 @@
 
 - 🎂  18 anos <br> <br>
 - 📚  Estudante de Ciência de Dados e Inteligência Artificial na FGV - Rio <br> <br>
+- 👨‍💻  Programador Full Stack, em C, em Flutter, em Java e futuramente Python <br> <br>
 
 <div align="center">
   <a href="https://github.com/ddanieldma">
