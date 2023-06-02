@@ -9,8 +9,8 @@
 <div align="center">
   <a href="https://github.com/ddanieldma">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=ddanieldma&show_icons=true&theme=radical&include_all_commits=true"/>
-  <!--&count_private=true-->
-<!--  <img height="190em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=ddanieldma&layout=compact&theme=radical&langs_count=6&hide=shaderlab,hlsl,scss,html,css,c,objective-c"/>
+  &count_private=true
+  <img height="190em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=ddanieldma&layout=compact&theme=radical&langs_count=6&hide=shaderlab,hlsl,scss,html,css,c,objective-c"/>
 </div>-->
 
 <br>
@@ -18,19 +18,14 @@
 <!--
 [![ddanieldma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dannillouou)](https://github.com/Dannillouou/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dannillouou)](https://github.com/Dannillouou/github-readme-stats)
+Linguagens e tecnologias
 -->
-
-##
-
-<!-- Linguagens e tecnologias-->
-<!--
 <div align="center">
   <div style="display: inline_block"><br>
     <img alt= "html" align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
     <img alt= "css"  align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
     <img alt= "JS" align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-    <!-- <img alt= "CS" align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg"/> -->
-    <!--
+     <img alt= "CS" align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg"/>
     <img alt= "java" align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     <img alt= "C" align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
     <img alt= "php" align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
@@ -39,8 +34,8 @@
     <img alt= "Rstudio" align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />     
   </div>
 </div>
-  -->
-##  
+
+<br>
 
 <!-- Conexões -->
   <div align="center">
