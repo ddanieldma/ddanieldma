@@ -4,6 +4,7 @@
 - 📚  Estudante de Ciência de Dados e Inteligência Artificial na FGV - Rio <br> <br>
 - 👨‍💻  Programador Full Stack, em C, em Flutter, em Java e em Python <br> <br>
 
+<!--
 <div align="center">
   <a href="https://github.com/ddanieldma">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=ddanieldma&show_icons=true&theme=radical&include_all_commits=true"/>
