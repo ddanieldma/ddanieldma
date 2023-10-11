@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/ddanieldma">
-  <img width="35%" src="https://github-readme-stats.vercel.app/api?username=ddanieldma&show_icons=true&theme=tokyonight"/>
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ddanieldma&layout=compact&theme=tokyonight&langs_count=6&hide=shaderlab,hlsl,scss,html,css,c,objective-c"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=ddanieldma&show_icons=true&theme=tokyonight"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ddanieldma&layout=compact&theme=tokyonight&langs_count=6&hide=shaderlab,hlsl,scss,html,css,c,objective-c"/>
 </div>
 
 <br>
