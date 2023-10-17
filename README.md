@@ -1,8 +1,8 @@
-### 👋 Olá! Daniel Miranda aqui
+### 👋 Hey! I'm Daniel Miranda
 
-- 🎂  18 anos <br> <br>
-- 📚  Estudante de Ciência de Dados e Inteligência Artificial na FGV - Rio <br> <br>
-- 👨‍💻  Programador Full Stack, em C, em Flutter, em Java e em Python <br> <br>
+- 🎂  18 yo <br> <br>
+- 📚  Undegraduate Student in Data Science and IA in FGV - Rio <br> <br>
+- 👨‍💻  I'm currently working with Python for data science and React in web development <br> <br>
 
 <div align="center">
   <a href="https://github.com/ddanieldma">
@@ -17,6 +17,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dannillouou)](https://github.com/Dannillouou/github-readme-stats)
 Linguagens e tecnologias
 -->
+
+
 <div align="center">
   <div style="display: inline_block"><br>
     <img alt= "html" align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
