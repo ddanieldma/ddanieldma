@@ -2,6 +2,7 @@
 
 - 🎂  18 yo <br> <br>
 - 📚  Undegraduate Student in Data Science and IA in FGV - Rio <br> <br>
+- 💻  Systems Development Technician at Colégio Técnico da UFMG <br> <br>
 - 👨‍💻  I'm currently working with Python for data science and Next.js in web development <br> <br>
 
 <div align="center">
