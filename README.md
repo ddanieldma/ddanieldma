@@ -3,12 +3,12 @@
 - 🎂  19 yo <br> <br>
 - 📚  Undegraduate Student in Data Science and IA in FGV - Rio <br> <br>
 - 💻  Systems Development Technician at Colégio Técnico da UFMG <br> <br>
-- 👨‍💻  I'm currently working with R and Power bi for data science and Next.js in web development <br> <br>
+- 👨‍💻  Currently working with R, Python and Power bi for data science <br> <br>
 
 <div align="center">
   <a href="https://github.com/ddanieldma">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ddanieldma&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ddanieldma&layout=compact&theme=tokyonight&langs_count=6&hide=shaderlab,hlsl,scss,html,css,c,objective-c"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ddanieldma&layout=compact&theme=tokyonight&langs_count=4&hide=shaderlab,hlsl,scss,c,objective-c,c%2B%2B,dart,scilab,c%23,processing,java,shell,html,css"/>
 </div>
 
 <br>
@@ -20,19 +20,16 @@ Linguagens e tecnologias
 -->
 
 
-#### Languages and technologias that I've worked with:
+#### Languages and technologies I worked with:
 <div align="center">
   <div style="display: inline_block"><br>
     <img alt= "python" align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+    <img alt= "rstudio" align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
+    <img alt= "power bi" align= "center" height="40" width = "50" src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" />
     <img alt= "html" align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
     <img alt= "css"  align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
-    <img alt= "js" align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-    <img alt= "c" align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
-    <img alt= "java" align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    <img alt= "rstudio" align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
-    <img alt= "php" align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
-    <img alt= "flutter" align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
-    <img alt= "processing" align= "center" height="40" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" />
+    <img alt= "react" align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+    <img alt= "aws" align= "center" height="40" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   </div>
 </div>
 
