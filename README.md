@@ -1,6 +1,6 @@
 ### 👋 Hey! I'm Daniel Miranda
 
-- 🎂  19 yo <br> <br>
+- 🎂  20 yo <br> <br>
 - 📚  Undegraduate Student in Data Science and IA in FGV - Rio <br> <br>
 - 💻  Systems Development Technician at Colégio Técnico da UFMG <br> <br>
 - 👨‍💻  Currently working with R, Python and Power bi for data science <br> <br>
@@ -20,7 +20,7 @@ Linguagens e tecnologias
 -->
 
 
-#### Languages and technologies I worked with:
+#### Languages and technologies I've worked with:
 <div align="center">
   <div style="display: inline_block"><br>
     <img alt= "python" align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
