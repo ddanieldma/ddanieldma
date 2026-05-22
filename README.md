@@ -1,6 +1,6 @@
 ### 👋 Hey! I'm Daniel Miranda
 
-- 🎂  20 yo <br> <br>
+- 🎂  21 yo <br> <br>
 - 📚  Undegraduate Student in Data Science and IA in FGV - Rio <br> <br>
 - 💻  Systems Development Technician at Colégio Técnico da UFMG <br> <br>
 - 👨‍💻  Currently working with R, Python and Power bi for data science <br> <br>
