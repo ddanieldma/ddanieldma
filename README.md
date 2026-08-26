@@ -1,14 +1,14 @@
-### 👋 Hey! I'm Daniel Miranda
+### 👋 Hey! I'm Daniel Miranda, nice to meet you!
 
 - 🎂  21 yo <br> <br>
-- 📚  Undegraduate Student in Data Science and IA in FGV - Rio <br> <br>
+- 📚  Undegraduate Student in Data Science and AI in FGV - Rio <br> <br>
 - 💻  Systems Development Technician at Colégio Técnico da UFMG <br> <br>
-- 👨‍💻  Currently working with R, Python and Power bi for data science <br> <br>
+- 👨‍💻  Currently working with Python for creating automations and data pipelines to improve the everyday work at IRB(Asset) (https://www.irbasset.com/) <br> <br>
 
 <div align="center">
   <a href="https://github.com/ddanieldma">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ddanieldma&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ddanieldma&layout=compact&theme=tokyonight&langs_count=4&hide=shaderlab,hlsl,scss,c,objective-c,c%2B%2B,dart,scilab,c%23,processing,java,shell,html,css"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=ddanieldma&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=ddanieldma&layout=compact&theme=tokyonight&langs_count=4&hide=shaderlab,hlsl,scss,c,objective-c,c%2B%2B,dart,scilab,c%23,processing,java,shell,html,css"/>
 </div>
 
 <br>
@@ -19,7 +19,7 @@
 Linguagens e tecnologias
 -->
 
-
+<!--
 #### Languages and technologies I've worked with:
 <div align="center">
   <div style="display: inline_block"><br>
@@ -33,6 +33,7 @@ Linguagens e tecnologias
     <img alt= "aws" align= "center" height="40" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   </div>
 </div>
+-->
 
 <br>
 
